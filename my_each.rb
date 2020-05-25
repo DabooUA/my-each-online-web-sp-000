@@ -5,6 +5,7 @@ if block_given?
     yield array[i]
 
   end
+else
   array
 end
 end
