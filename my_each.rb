@@ -7,5 +7,6 @@ if block_given?
   end
 else
   array
+  break
 end
 end
